@@ -34,9 +34,9 @@
             <optional>true</optional>
         </dependency>
         <dependency>
-            <groupId>org.csource</groupId>
+            <groupId>cn.bestwu</groupId>
             <artifactId>fastdfs-client-java</artifactId>
-            <version>1.27-SNAPSHOT</version>
+            <version>1.27</version>
         </dependency>
     </dependencies>
 
